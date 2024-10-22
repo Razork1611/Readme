@@ -10,5 +10,6 @@
 |----------|-----------|
 | IES Torre del rey | ESO | 
 | IES Torre del rey | Grado medio de SMR |
+| IES Rodrigo Caro | 1º del superior de ASIR |
 
 ### Correo: cuestasuarezantonio@gmail.com
