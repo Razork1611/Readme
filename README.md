@@ -1,3 +1,3 @@
 # Readme
 Nombre: Antonio Cuesta
-(https://github.com/Razork1611/Razok1611/assets/151218037/b4bcfeb2-8152-47a3-a3fc-f6797cada906)
+![{26973B9D-0B7E-4CE0-9180-F623D6BA0F62}](https://github.com/user-attachments/assets/49bb584f-3d9d-4ac1-8764-09a87a6990dd)
